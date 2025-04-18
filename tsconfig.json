@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "allowImportingTsExtensions": true,
+
+    // https://nodejs.org/api/typescript.html#type-stripping
+    "noEmit": true, // Optional - see note below
+    "target": "esnext",
+    "module": "nodenext",
+    "rewriteRelativeImportExtensions": true,
+    "erasableSyntaxOnly": true,
+    "verbatimModuleSyntax": true
+  }
+} 

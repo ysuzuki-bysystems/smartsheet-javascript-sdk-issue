@@ -1,0 +1,86 @@
+[Smartsheet] 2025-04-18T02:26:11.212Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.227Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.228Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.229Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.231Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.232Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.234Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.235Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.237Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.239Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.240Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.241Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.242Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.243Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.243Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.244Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.245Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.246Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.247Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.248Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.249Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.250Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.251Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.251Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.252Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.253Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.254Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.254Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.255Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.256Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.257Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:11.258Z[   INFO] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:12.251Z[   WARN] Request failed, performing retry #1
+Cause:  statusCode=500, date=Fri, 18 Apr 2025 02:26:12 GMT, content-type=text/plain,application/json;charset=UTF
+-8, content-length=226, connection=keep-alive, server=nginx/1.27.5, x-envoy-upstream-service-time=97, x-smar-hal
+o-version=3688717, x-smar-halo-release=l, errorCode=4004, message=Request failed because sheet is currently bein
+g updated by another request that uses the same access token.  Please retry your request once the previous reque
+st has completed., refId=1234, errorCode=4004, message=Request failed because sheet is currently being updated b
+y another request that uses the same access token.  Please retry your request once the previous request has comp
+leted., refId=1234
+[Smartsheet] 2025-04-18T02:26:12.251Z[   WARN] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:12.252Z[   WARN] Request failed, performing retry #1
+Cause:  statusCode=500, date=Fri, 18 Apr 2025 02:26:12 GMT, content-type=text/plain,application/json;charset=UTF
+-8, content-length=226, connection=keep-alive, server=nginx/1.27.5, x-envoy-upstream-service-time=128, x-smar-ha
+lo-version=3688717, x-smar-halo-release=l, errorCode=4004, message=Request failed because sheet is currently bei
+ng updated by another request that uses the same access token.  Please retry your request once the previous requ
+est has completed., refId=1234, errorCode=4004, message=Request failed because sheet is currently being updated 
+by another request that uses the same access token.  Please retry your request once the previous request has com
+pleted., refId=1234
+[Smartsheet] 2025-04-18T02:26:12.252Z[   WARN] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:12.263Z[   WARN] Request failed, performing retry #1
+Cause:  statusCode=500, date=Fri, 18 Apr 2025 02:26:12 GMT, content-type=text/plain,application/json;charset=UTF
+-8, content-length=226, connection=keep-alive, server=nginx/1.27.5, x-envoy-upstream-service-time=138, x-smar-ha
+lo-version=3688717, x-smar-halo-release=l, errorCode=4004, message=Request failed because sheet is currently bei
+ng updated by another request that uses the same access token.  Please retry your request once the previous requ
+est has completed., refId=1234, errorCode=4004, message=Request failed because sheet is currently being updated 
+by another request that uses the same access token.  Please retry your request once the previous request has com
+pleted., refId=1234
+[Smartsheet] 2025-04-18T02:26:12.263Z[   WARN] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:12.268Z[   WARN] Request failed, performing retry #1
+Cause:  statusCode=500, date=Fri, 18 Apr 2025 02:26:12 GMT, content-type=text/plain,application/json;charset=UTF
+-8, content-length=226, connection=keep-alive, server=nginx/1.27.5, x-envoy-upstream-service-time=158, x-smar-ha
+lo-version=3688717, x-smar-halo-release=l, errorCode=4004, message=Request failed because sheet is currently bei
+ng updated by another request that uses the same access token.  Please retry your request once the previous requ
+est has completed., refId=1234, errorCode=4004, message=Request failed because sheet is currently being updated 
+by another request that uses the same access token.  Please retry your request once the previous request has com
+pleted., refId=1234
+[Smartsheet] 2025-04-18T02:26:12.268Z[   WARN] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:13.752Z[  ERROR] Request failed after NaN retries
+[Smartsheet] 2025-04-18T02:26:13.752Z[  ERROR] PUT https://api.smartsheet.com/2.0/sheets/3028600315924356/rows
+[Smartsheet] 2025-04-18T02:26:13.752Z[  ERROR] Response: Failure (HTTP 400)
+        Error Code: 1012 - Required object attribute(s) are missing from your request: row.id.
+        Ref ID: 08c202f1-8de0-42a1-ac25-6a81b736ce99
+
+node:internal/modules/run_main:122
+    triggerUncaughtException(
+    ^
+{
+  statusCode: 400,
+  errorCode: 1012,
+  message: 'Required object attribute(s) are missing from your request: row.id.',
+  refId: '08c202f1-8de0-42a1-ac25-6a81b736ce99',
+  detail: { index: 0 }
+}
+
+Node.js v22.14.0

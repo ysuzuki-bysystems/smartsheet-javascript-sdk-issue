@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "smartsheet": "^4.2.2"
+  },
+  "engines": {
+    "node": "22.14.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1"
+  }
+}
